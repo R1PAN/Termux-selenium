@@ -22,7 +22,6 @@ Example
 <table>
   <tr>
     <th>Type</th>
-    <th>Video</th>
     <th>Chromium</th>
     <th>Firefox</th>
   </tr>
@@ -49,7 +48,6 @@ driver.quit()</code></pre></td>
   </tr>
   <tr>
     <td>Non-Headless</td>
-    <td><video src="https://github.com/luanon404/Selenium-On-Termux-Android/assets/71830807/98165e6d-7f0e-4853-b822-d38903b43cce"></td>
     <td><pre><code>from selenium import webdriver
 options = webdriver.ChromeOptions()
 options.add_argument("--no-sandbox")
