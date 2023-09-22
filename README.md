@@ -27,7 +27,7 @@ Example
   </tr>
   <tr>
     <td>Headless</td>
-    <td>Unknown</td>
+    
     <td><pre><code>from selenium import webdriver
 options = webdriver.ChromeOptions()
 options.add_argument("--no-sandbox")
